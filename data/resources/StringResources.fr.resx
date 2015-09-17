@@ -8035,4 +8035,7 @@ Erreur lors du démarrage:</value>
   <data name="XML.TextAreaContextMenu.UncommentSelection" xml:space="preserve">
     <value>Partie non commentée</value>
   </data>
+  <data name="Global.WindowTitlePartsSeparator" xml:space="preserve">
+    <value> — </value>
+  </data>
 </root>

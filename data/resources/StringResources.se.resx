@@ -5968,4 +5968,7 @@ Resursfilerna har därför bytt namn/flyttats enligt ovan.</value>
   <data name="XML.TextAreaContextMenu.UncommentSelection" xml:space="preserve">
     <value>Avkommentera region</value>
   </data>
+  <data name="Global.WindowTitlePartsSeparator" xml:space="preserve">
+    <value> — </value>
+  </data>
 </root>

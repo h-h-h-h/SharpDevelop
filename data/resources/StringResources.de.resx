@@ -7893,4 +7893,7 @@ Fehler beim Starten:
   <data name="XML.TextAreaContextMenu.UncommentSelection" xml:space="preserve">
     <value>Kommentar entfernen</value>
   </data>
+  <data name="Global.WindowTitlePartsSeparator" xml:space="preserve">
+    <value> – </value>
+  </data>
 </root>

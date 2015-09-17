@@ -5837,4 +5837,7 @@ O erro no início foi:</value>
   <data name="XML.TextAreaContextMenu.UncommentSelection" xml:space="preserve">
     <value>Desfazer comentário</value>
   </data>
+  <data name="Global.WindowTitlePartsSeparator" xml:space="preserve">
+    <value> — </value>
+  </data>
 </root>

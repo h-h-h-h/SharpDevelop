@@ -7808,4 +7808,7 @@ Error mientras se iniciaba:</value>
   <data name="XML.TextAreaContextMenu.UncommentSelection" xml:space="preserve">
     <value>Descomentar Región</value>
   </data>
+  <data name="Global.WindowTitlePartsSeparator" xml:space="preserve">
+    <value> — </value>
+  </data>
 </root>

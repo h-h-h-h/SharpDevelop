@@ -7950,4 +7950,7 @@ Error al iniciar:</value>
   <data name="XML.TextAreaContextMenu.UncommentSelection" xml:space="preserve">
     <value>Descomentar región</value>
   </data>
+  <data name="Global.WindowTitlePartsSeparator" xml:space="preserve">
+    <value> — </value>
+  </data>
 </root>
