@@ -209,7 +209,7 @@ namespace ICSharpCode.SharpDevelop.Workbench
 		void SetProjectTitle(object sender, Project.ProjectEventArgs e)
 		{
 			if (e.Project != null) {
-				Title = e.Project.Name + ResourceService.GetString("Global.WindowTitlePartsSeparator") + ResourceService.GetString("MainWindow.DialogName");
+				Title = StringParser.Parse("${res:MainWindow.ProjectAndDialogName}", new StringTagPair("ProjectName", e.Project.Name));
 			} else {
 				Title = ResourceService.GetString("MainWindow.DialogName");
 			}

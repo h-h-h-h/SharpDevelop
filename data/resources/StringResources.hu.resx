@@ -5071,7 +5071,7 @@ Hiba az indításkor:</value>
   <data name="XML.TextAreaContextMenu.UncommentSelection" xml:space="preserve">
     <value>Megjegyzésből ki</value>
   </data>
-  <data name="Global.WindowTitlePartsSeparator" xml:space="preserve">
-    <value> — </value>
+  <data name="MainWindow.ProjectAndDialogName" xml:space="preserve">
+    <value>${ProjectName} &#x2013; SharpDevelop</value>
   </data>
 </root>
